@@ -1,0 +1,1 @@
+import{t as e}from"./Compact-CA5IgEtX.js";import{n as t,t as n}from"./space-vOHHnKzB.js";export{e as Compact,n as default,t as spaceProps};
